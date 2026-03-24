@@ -1,6 +1,6 @@
 <!-- 🔥 BIG CLEAN ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=55&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=ANKAN+DALUI;Frontend+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=60&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=ANKAN+DALUI;Frontend+Developer;Full+Stack+Developer" />
 </p>
 
 <!-- 🔗 LINKS -->
@@ -14,9 +14,9 @@
 
 ## Who Am I
 
-I’m Ankan, a developer focused on building real-world applications using full-stack development and AI. I enjoy creating systems that are not just functional but scalable and impactful.
+I’m Ankan, a developer focused on building real-world applications using full-stack development and AI. I enjoy creating systems that are scalable, impactful, and actually useful.
 
-I work on projects like AI-powered voice assistants, mock interview systems, job platforms with salary prediction, and intelligent health systems. I prefer solving real problems rather than building clone projects.
+I work on projects like AI-powered voice assistants, mock interview systems, job platforms with salary prediction, and intelligent health systems. I prefer solving real problems instead of building clone projects.
 
 ---
 
@@ -50,7 +50,7 @@ I work on projects like AI-powered voice assistants, mock interview systems, job
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankandalui/ankandalui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ankandalui/ankandalui/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

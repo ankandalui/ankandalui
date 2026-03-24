@@ -1,12 +1,10 @@
-<!-- 🔥 CYBERPUNK BACKGROUND BANNER -->
+<!-- 🔥 CYBERPUNK BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://ik.imagekit.io/k2pkqd50y/HD-wallpaper-neon-mountain-landscape-neon-light-lines-purple-grid-electro-music-synthpop-retrowave.jpg" width="100%" />
 </p>
 
-<!-- 🔥 ANIMATED NAME -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANKAN+DALUI;FULL+STACK+DEVELOPER;AI+ENGINEER;CYBERPUNK+BUILDER" />
-</p>
+<!-- 🔥 NAME -->
+<h1 align="center">ANKAN DALUI</h1>
 
 <!-- 🔗 LINKS -->
 <p align="center">
@@ -19,7 +17,7 @@
 
 ## 👨‍💻 Who Am I
 
-I’m Ankan, a builder focused on creating real-world systems using full-stack development and AI. I work on projects that go beyond basic applications — from voice-controlled assistants and AI interview systems to job intelligence platforms and smart health solutions.
+I’m Ankan, a builder focused on creating real-world systems using full-stack development and AI. I work on projects that go beyond basic applications — from voice-controlled assistants and AI interview systems to job intelligence platforms and intelligent health solutions.
 
 I enjoy experimenting with modern technologies and building systems that are scalable, impactful, and actually useful. My approach is simple: if it doesn’t solve a real problem or improve user experience, it’s not worth building.
 
@@ -36,10 +34,10 @@ I enjoy experimenting with modern technologies and building systems that are sca
 ## 🚀 What I’m Building
 
 - 🤖 AI-powered systems (Voice + Emotion + Automation)  
-- 📱 Full-stack web & mobile apps (Next.js, React Native, Flutter)  
-- ⚙️ Backend systems using Flask, FastAPI, Spring Boot, .NET  
-- 🧠 Scalable architectures & DevOps workflows  
-- ⚡ Modern UI experiences with Vista JS  
+- 📱 Full-stack apps (Next.js, React Native, Flutter)  
+- ⚙️ Backend systems (.NET, Spring Boot, Flask, FastAPI)  
+- ☁️ DevOps & scalable architectures  
+- ⚡ UI experiments with Vista JS  
 
 ---
 
@@ -52,11 +50,19 @@ I enjoy experimenting with modern technologies and building systems that are sca
 
 ---
 
+## 🐍 Contribution Snake (Game Style Push Graph)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankandalui/ankandalui/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## ⚡ Philosophy
 
-I focus on building systems that create impact.
+I focus on building real products.
 
-Not clones. Not tutorials. Real products.
+No clones. No tutorials. Only systems that matter.
 
 ---
 

@@ -3,23 +3,25 @@
   <img src="https://ik.imagekit.io/k2pkqd50y/HD-wallpaper-neon-mountain-landscape-neon-light-lines-purple-grid-electro-music-synthpop-retrowave.jpg" width="100%" />
 </p>
 
-<!-- 🔥 NAME -->
-<h1 align="center">ANKAN DALUI</h1>
+<!-- 🔥 ANIMATED NAME OVER IMAGE -->
+<h1 align="center" style="margin-top:-120px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=ANKAN+DALUI" />
+</h1>
 
 <!-- 🔗 LINKS -->
 <p align="center">
   📧 <a href="mailto:adalui260@gmail.com">adalui260@gmail.com</a> &nbsp; | &nbsp;
-  🌐 <a href="https://ankan-web.vercel.app" target="_blank">Portfolio</a> &nbsp; | &nbsp;
-  ⚡ <a href="https://vistajs.xyz" target="_blank">Vista JS</a>
+  🌐 <a href="https://ankan-web.vercel.app">Portfolio</a> &nbsp; | &nbsp;
+  ⚡ <a href="https://vistajs.xyz">Vista JS</a>
 </p>
 
 ---
 
 ## 👨‍💻 Who Am I
 
-I’m Ankan, a builder focused on creating real-world systems using full-stack development and AI. I work on projects that go beyond basic applications — from voice-controlled assistants and AI interview systems to job intelligence platforms and intelligent health solutions.
+I’m Ankan, a builder focused on creating real-world systems using full-stack development and AI. I work on projects like voice-controlled assistants, AI interview systems, job intelligence platforms, and intelligent health solutions.
 
-I enjoy experimenting with modern technologies and building systems that are scalable, impactful, and actually useful. My approach is simple: if it doesn’t solve a real problem or improve user experience, it’s not worth building.
+I enjoy experimenting with modern technologies and building systems that are scalable, impactful, and actually useful.
 
 ---
 
@@ -50,7 +52,7 @@ I enjoy experimenting with modern technologies and building systems that are sca
 
 ---
 
-## 🐍 Contribution Snake (Game Style Push Graph)
+## 🐍 Contribution Snake (Game Style)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankandalui/ankandalui/output/github-contribution-grid-snake.svg" />

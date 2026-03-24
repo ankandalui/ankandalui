@@ -1,9 +1,14 @@
-<!-- 🔥 ANIMATED NAME -->
+<!-- 🔥 CYBERPUNK BACKGROUND BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANKAN+DALUI;FULL+STACK+DEVELOPER;AI+BUILDER;CREATING+REAL+WORLD+SYSTEMS" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 </p>
 
-<!-- 🔗 LINKS UNDER NAME -->
+<!-- 🔥 ANIMATED NAME -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANKAN+DALUI;FULL+STACK+DEVELOPER;AI+ENGINEER;CYBERPUNK+BUILDER" />
+</p>
+
+<!-- 🔗 LINKS -->
 <p align="center">
   📧 <a href="mailto:adalui260@gmail.com">adalui260@gmail.com</a> &nbsp; | &nbsp;
   🌐 <a href="https://ankan-web.vercel.app" target="_blank">Portfolio</a> &nbsp; | &nbsp;
@@ -14,18 +19,16 @@
 
 ## 👨‍💻 Who Am I
 
-I’m Ankan, a builder who focuses on turning ideas into real-world working systems. I enjoy creating full-stack applications and integrating AI in ways that actually solve problems, not just look impressive.
+I’m Ankan, a builder focused on creating real-world systems using full-stack development and AI. I work on projects that go beyond basic applications — from voice-controlled assistants and AI interview systems to job intelligence platforms and smart health solutions.
 
-Right now, I’m working on AI-powered voice assistants, mock interview platforms with emotion analysis, job finders with salary prediction, and intelligent health systems. My goal is simple — build things that are useful, scalable, and impactful.
-
-I don’t believe in building clone projects. If something doesn’t solve a real problem, automate a process, or improve user experience, I’m not interested in building it.
+I enjoy experimenting with modern technologies and building systems that are scalable, impactful, and actually useful. My approach is simple: if it doesn’t solve a real problem or improve user experience, it’s not worth building.
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,flask,fastapi,prisma,firebase,appwrite,postgres,python,ts,js" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,flask,fastapi,prisma,firebase,appwrite,postgres,python,ts,js,rust,dotnet,spring,flutter,docker,kubernetes,aws" />
 </p>
 
 ---
@@ -33,9 +36,10 @@ I don’t believe in building clone projects. If something doesn’t solve a rea
 ## 🚀 What I’m Building
 
 - 🤖 AI-powered systems (Voice + Emotion + Automation)  
-- 📱 Full-stack web & mobile apps (Next.js + React Native)  
-- ⚙️ Modern UI experiences using Vista JS  
-- 🧠 Real-world problem-solving products  
+- 📱 Full-stack web & mobile apps (Next.js, React Native, Flutter)  
+- ⚙️ Backend systems using Flask, FastAPI, Spring Boot, .NET  
+- 🧠 Scalable architectures & DevOps workflows  
+- ⚡ Modern UI experiences with Vista JS  
 
 ---
 
@@ -50,10 +54,10 @@ I don’t believe in building clone projects. If something doesn’t solve a rea
 
 ## ⚡ Philosophy
 
-I focus on building things that actually matter.
+I focus on building systems that create impact.
 
-If it doesn’t scale, automate, or create impact — it’s not worth my time.
+Not clones. Not tutorials. Real products.
 
 ---
 
-⭐ If you like what I’m building, feel free to explore my repositories and drop a star.
+⭐ If you like what I’m building, consider giving a star.

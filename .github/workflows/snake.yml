@@ -15,6 +15,7 @@ jobs:
           github_user_name: ankandalui
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -22,6 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-outputs: |
-  dist/github-contribution-grid-snake.svg
-  dist/github-contribution-grid-snake-dark.svg
